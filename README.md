@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a iOS engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @Jiken0705](https://twitter.com/Jiken0705)
+- 📫 How to reach me: [X - @Jiken0705](https://twitter.com/Jiken0705)
 <br>
 
 
