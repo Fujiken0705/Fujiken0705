@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a iOS engineer.
-- 🌱 I’m currently learning go!
+- 🌱 I’m currently learning Go!
 - 📫 How to reach me: [X - @Jiken0705](https://twitter.com/Jiken0705)
 <br>
 
